@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JAVA developer from India</h3>
 
 - 🔭 I’m currently working on **android development**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 - 👯 I’m looking to collaborate on **open source projects**
 
